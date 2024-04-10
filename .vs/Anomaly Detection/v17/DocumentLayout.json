@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\_MyUnityPorjects\\Anomaly Detection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{539F2915-6D52-D0C5-24C4-BECB0BCADF27}|Assembly-CSharp.csproj|E:\\_MyUnityPorjects\\Anomaly Detection\\assets\\_scripts\\anomalydetectionalgorythem\\anomalydetectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539F2915-6D52-D0C5-24C4-BECB0BCADF27}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\anomalydetectionalgorythem\\anomalydetectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539F2915-6D52-D0C5-24C4-BECB0BCADF27}|Assembly-CSharp.csproj|E:\\_MyUnityPorjects\\Anomaly Detection\\assets\\_scripts\\datafiles\\player_data.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{539F2915-6D52-D0C5-24C4-BECB0BCADF27}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\datafiles\\player_data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539F2915-6D52-D0C5-24C4-BECB0BCADF27}|Assembly-CSharp.csproj|E:\\_MyUnityPorjects\\Anomaly Detection\\assets\\_scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539F2915-6D52-D0C5-24C4-BECB0BCADF27}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539F2915-6D52-D0C5-24C4-BECB0BCADF27}|Assembly-CSharp.csproj|e:\\_myunityporjects\\anomaly detection\\assets\\_scripts\\anomalydetectionalgorythem\\oneclasssvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539F2915-6D52-D0C5-24C4-BECB0BCADF27}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\anomalydetectionalgorythem\\oneclasssvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539F2915-6D52-D0C5-24C4-BECB0BCADF27}|Assembly-CSharp.csproj|E:\\_MyUnityPorjects\\Anomaly Detection\\assets\\_scripts\\_core\\managers\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539F2915-6D52-D0C5-24C4-BECB0BCADF27}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\_core\\managers\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "player_data.txt",
+              "DocumentMoniker": "E:\\_MyUnityPorjects\\Anomaly Detection\\Assets\\_Scripts\\DataFiles\\player_data.txt",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\DataFiles\\player_data.txt",
+              "ToolTip": "E:\\_MyUnityPorjects\\Anomaly Detection\\Assets\\_Scripts\\DataFiles\\player_data.txt",
+              "RelativeToolTip": "Assets\\_Scripts\\DataFiles\\player_data.txt",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAowL0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-26T00:41:20.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnomalyDetectionManager.cs",
+              "DocumentMoniker": "E:\\_MyUnityPorjects\\Anomaly Detection\\Assets\\_Scripts\\AnomalyDetectionAlgorythem\\AnomalyDetectionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\AnomalyDetectionAlgorythem\\AnomalyDetectionManager.cs",
+              "ToolTip": "E:\\_MyUnityPorjects\\Anomaly Detection\\Assets\\_Scripts\\AnomalyDetectionAlgorythem\\AnomalyDetectionManager.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\AnomalyDetectionAlgorythem\\AnomalyDetectionManager.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAwwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T00:22:43.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataManager.cs",
+              "DocumentMoniker": "E:\\_MyUnityPorjects\\Anomaly Detection\\Assets\\_Scripts\\_Core\\Managers\\DataManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\_Core\\Managers\\DataManager.cs",
+              "ToolTip": "E:\\_MyUnityPorjects\\Anomaly Detection\\Assets\\_Scripts\\_Core\\Managers\\DataManager.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\_Core\\Managers\\DataManager.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAMwFIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T23:40:28.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "E:\\_MyUnityPorjects\\Anomaly Detection\\Assets\\_Scripts\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\Player\\PlayerController.cs",
+              "ToolTip": "E:\\_MyUnityPorjects\\Anomaly Detection\\Assets\\_Scripts\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\Player\\PlayerController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowEUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T23:39:59.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OneClassSVM.cs",
+              "DocumentMoniker": "E:\\_MyUnityPorjects\\Anomaly Detection\\Assets\\_Scripts\\AnomalyDetectionAlgorythem\\OneClassSVM.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\AnomalyDetectionAlgorythem\\OneClassSVM.cs",
+              "ToolTip": "E:\\_MyUnityPorjects\\Anomaly Detection\\Assets\\_Scripts\\AnomalyDetectionAlgorythem\\OneClassSVM.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\AnomalyDetectionAlgorythem\\OneClassSVM.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAcwCIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T23:19:04.893Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
