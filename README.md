@@ -11,6 +11,6 @@ To use this implementation:
 
 Run the Python anomaly detection server by executing the provided scripts.
 Note the local server address (usually http://127.0.0.1:5000).
-Open the Unity project and navigate to the AnomalyDetectionClient script.
-Replace the trainEndpoint and predictEndpoint variables in the script's inspector with the server address.
+Open the Unity project and navigate to the AnomalyDetectionServerManager object in the scene.
+Replace the server address variables in the object inspector with the server address shown in the python server script once you run it.
 With the connection established, you're ready to detect player speed anomalies in your Unity game.
