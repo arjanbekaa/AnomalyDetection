@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 
 public class PlayerController : MonoBehaviour
@@ -106,7 +107,7 @@ public class PlayerController : MonoBehaviour
             Time = Time.time,
             PlayerX = transform.position.x,
             PlayerY = transform.position.y,
-            PlayerSpeed = Mathf.Abs(rb.velocity.magnitude)  // Absolute value of velocity for speed
+            PlayerSpeed = Mathf.Abs((float)Math.Round(rb.velocity.magnitude, 1)) // Absolute value of velocity for speed
         };
 
         if (doAnomalyDetection)
