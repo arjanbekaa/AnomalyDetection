@@ -9,4 +9,11 @@ Note the local server address (usually http://127.0.0.1:5000).
 Open the Unity project and navigate to the AnomalyDetectionServerManager object in the scene.
 Replace the server address variables in the object inspector with the server address shown in the python server script once you run it.
 With the connection established, you're ready to detect player speed anomalies in your Unity game.
-Note: Ensure that the More Efficient Coroutine package is installed to handle coroutine management efficiently.
+
+Note:
+
+Ensure that the More Efficient Coroutine package is installed to handle coroutine management efficiently.
+If you encounter "A Native Collection has not been disposed, resulting in a memory leak" error, consider changing the Unity version for compatibility.
+
+Unity version used: 2022.3.19f1
+Python version used: 3.12
